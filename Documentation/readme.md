@@ -15,5 +15,5 @@ En esta sección se ubicaran los archivos que respalda el análisis previo al di
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|
 |Tania Ibarra Salgado|[@ibarra-tania](https://github.com/ibarra-tania)|Líder de Documentación|✅Muy buen Trabajo.|
-|Zyanya Zacatenco Pedroza|[@ZyanZac](https://github.com/ZyanZac)|Documentador|❌No ha revisado cambios.|
+|MTI. Marco RH|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Documentador|❌No ha revisado cambios.|
 |Esther González Peralta|[@Esther-Gonzalez04](https://github.com/Esther-Gonzalez04)|Documentador|❌No ha revisado cambios.|
